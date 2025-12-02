@@ -13,7 +13,7 @@
 ## What I Want To Learn
 
 - Embedded Systems Programming
-- Build a DAW
+- Build a note taking app
 
 ## 🚀 Technologies I know
 
